@@ -45,9 +45,8 @@ I'm a Software Engineering student from Lima, Peru.<br><br>
   </a>
 
 </div>
-###
+
 <h3 align="left">🛠 Language and tools</h3>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
